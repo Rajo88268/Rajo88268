@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Rajalaxmi Ghadei 👋
 
-<!--
-**Rajo88268/Rajo88268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Deputy Manager at SBI Card with experience in Business Operations, Sales Enablement and Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving business problems using data and building dashboards that support better decision-making.
+
+### Skills
+
+- Advanced Excel
+- SQL
+- Python
+- Power BI
+- Tableau
+- Business Analysis
+- Data Visualization
+- Business Intelligence
+
+### Currently Learning
+
+- Python for Data Analytics
+- Power BI Dashboarding
+
+### Connect with Me
+
+- LinkedIn- https://linkedin.com/in/rajalaxmi-ghadei
+
+---
+⭐ Thanks for visiting my GitHub!
